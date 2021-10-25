@@ -16,7 +16,7 @@ function Home() {
         <div className="pure-u-1-3">
           <h1>Hello on github pages with Next.js</h1>
           <a className="pure-button pure-button-primary" href="#">
-            No Action
+            Navigate somewhere
           </a>
         </div>
       </div>
